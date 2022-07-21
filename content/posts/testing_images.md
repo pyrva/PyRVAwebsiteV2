@@ -10,7 +10,10 @@ summary: Quick Post on Testing Images
 
 Quick test showing how to imbed images in a page
 
-<img src="{static}/images/testing_images/test_image.jpeg" alt="Good News!" width="200"/>
+## PyRVA Logo
+![PyRVA Logo]({static}/images/logo.png)
 
+## Resizing
+<img src="{static}/images/testing_images/test_image.jpeg" alt="Good News!" width="200"/>
 ![Good News!]({static}/images/testing_images/test_image.jpeg)
 

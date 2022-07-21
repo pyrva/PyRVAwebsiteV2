@@ -24,7 +24,7 @@ deploy a test server
 ```shell
 make serve
 ```
->[!note] I hard mapped the port to 5001 in the pelicanconf.py as it conflicts with another service I run on the default port. You should be able to run -port <port number> with the make command but I am lazy. Iono willing to discuss with team if there is any heartburn here. 
+>[!note] I hard mapped the port to 5001 in the pelicanconf.py as it conflicts with another service I run on the default port. You should be able to run -port **port number** with the make command but I am lazy. Iono willing to discuss with team if there is any heartburn here. 
 
 
 
